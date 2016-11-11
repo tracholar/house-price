@@ -1,1 +1,5 @@
 data/
+.idea/
+fangjia.iml
+*.txt
+lib/
